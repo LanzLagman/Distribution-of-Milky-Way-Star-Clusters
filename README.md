@@ -14,6 +14,6 @@ Gaia EDR3 data on open clusters:
 [Painting a portrait of the Galactic disc with its stellar clusters](https://ui.adsabs.harvard.edu/abs/2020A&A...640A...1C): Cantat-Gaudin et al. (2020)
 
 Gaia EDR3 data on globular clusters:
-[https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.5978V/abstract](https://ui.adsabs.harvard.edu/abs/2021yCat..75055978V/abstract): Vasiliev, Baumgardt (2021)
+[Gaia EDR3 view on galactic globular clusters](https://ui.adsabs.harvard.edu/abs/2021yCat..75055978V/abstract): Vasiliev, Baumgardt (2021)
 
 
